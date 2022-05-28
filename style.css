@@ -1,0 +1,32 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&display=swap');
+body{
+  font-family: 'Lato', sans-serif;
+}
+.area{
+  background-color:rgb(168, 221, 230);
+  height: 30vh;
+  width: 40vh;
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.contador{
+  font-size: 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+#input{
+  border: 20px;
+  font-size: 23px;
+  border-radius: 3px;
+
+}
+
